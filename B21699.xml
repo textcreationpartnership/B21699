@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>At the Court at White-hall, the four and twentieth day of July 1668. Present, the King's most excellent Majesty. ... His Majesty being informed that there are pamphlets, libells, and other seditious papers daily printed and dispersed within the cities of London and Westminster, ...</title>
+            <title>Orders in Council. 1668-07-24</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21699</idno><idno type="EEBO-CITATION">99886843</idno>
+  <idno type="VID">192523</idno>
+  <idno type="EEBO-PROQUEST">2240902137</idno>
+  
+            <idno type="STC">Wing E801B</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.21.f.1[41]</idno>
+            <idno type="STC">ESTC R226683</idno>
+            <idno type="PROQUEST">ocm99886843</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886843e"/>
+            <note>(EEBO-TCP ; phase 2, no. B21699)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 192523)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C9:3[188])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>At the Court at White-hall, the four and twentieth day of July 1668. Present, the King's most excellent Majesty. ... His Majesty being informed that there are pamphlets, libells, and other seditious papers daily printed and dispersed within the cities of London and Westminster, ...</title>
+                  <title>Orders in Council. 1668-07-24</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+                  <author>England and Wales. Privy Council.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by James Flesher, printer to the honourable city of London,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1668]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Against printing and selling unlicensed books.</note>
+                  <note>Place and year of publication from Wing CD-ROM, 1996.</note>
+                  <note>Steele notation: other the Majesty's; Arms 83.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Libel and slander --  Early works to 1800.</term>
+               <term type="topical_term">Booksellers and bookselling --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:192523:1"/>
+            <head>
+               <figure>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure> At the Court at <hi>WHITE-HALL,</hi> the four and twentieth day of <hi>July</hi> 1668.</head>
+            <list>
+               <head>Present,</head>
+               <item>The KING's most Excellent Majesty.</item>
+               <item>
+                  <hi>His Royal Highness the Duke of</hi> York.</item>
+               <item>
+                  <hi>His Highness Prince</hi> Rupert.</item>
+               <item>
+                  <hi>Lord Arch-bishop of</hi> Canter<g ref="char:EOLhyphen"/>bury.</item>
+               <item>
+                  <hi>Lord Privy-Seal.</hi>
+               </item>
+               <item>
+                  <hi>Duke of</hi> Albemarle.</item>
+               <item>
+                  <hi>Duke of</hi> Ormond.</item>
+               <item>
+                  <hi>Marquess of</hi> Dorchester.</item>
+               <item>
+                  <hi>Earl of</hi> Anglesey.</item>
+               <item>
+                  <hi>Earl of</hi> Bathe.</item>
+               <item>
+                  <hi>Earl of</hi> Carlisle.</item>
+               <item>
+                  <hi>Earl of</hi> Craven.</item>
+               <item>
+                  <hi>Earl of</hi> Lauderdail.</item>
+               <item>
+                  <hi>Earl of</hi> Middleton.</item>
+               <item>
+                  <hi>Earl of</hi> Carbery.</item>
+               <item>
+                  <hi>Earl of</hi> Orery.</item>
+               <item>
+                  <hi>Lord</hi> Berkley.</item>
+               <item>
+                  <hi>Lord</hi> Holles.</item>
+               <item>
+                  <hi>Mr. Treasurer.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Vice-Chamberlain.</hi>
+               </item>
+               <item>
+                  <hi>Mr. Secretary</hi> Morice.</item>
+               <item>
+                  <hi>Mr. Chancellor of the Dutchy.</hi>
+               </item>
+               <item>
+                  <hi>Sir</hi> John Duncombe.</item>
+            </list>
+            <p>
+               <seg rend="decorInit">H</seg>IS MAJESTY being informed that there are <hi>Pamphlets, Libells,</hi> and other <hi>Seditious Papers</hi> daily printed and dispersed within the Cities of <hi>London</hi> and <hi>Westminster,</hi> and the <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thereof, and that this Disorder is chiefly occasio<g ref="char:EOLhyphen"/>ned by the Liberty the Printers, Booksellers and others take in printing and vending the same contrary to the late Act of Parliament in that behalf provided, Hath for prevention of the great Mischiefs and Inconveniencies which may at<g ref="char:EOLhyphen"/>tend such unlawfull Practices this day declared his Pleasure, and with the Advice of his Privy Council did accordingly Order, That the Master and Wardens of the Company of <hi>Stationers London</hi> be, and they are hereby, streightly requi<g ref="char:EOLhyphen"/>red and commanded to take effectual Care, that from henceforward no Printer, Book-seller, Book-binder, or any other person, do vend, furnish or dispose of any <hi>News-books, Gazetts</hi> or <hi>Pamphlets</hi> whatsoever, to any <hi>Hawker</hi> or other person who shall carry, cry, or sell the same about the Streets: and that the Printers and Stationers do vend all such Books and Papers as they shall print onely to such as are allowed to sell Books according to the late Act of Parliament. And the said Master and Wardens of the Company of <hi>Stati<g ref="char:EOLhyphen"/>oners</hi> are likewise required by his MAJESTY to take effectual care, that all persons which are or shall be permitted to have the use of a Printing-Press, or a Printing-House, upon or before such his allowance obtained, be bound with Sureties to his MAJESTY in the Court of <hi>King's-bench,</hi> or before some one or more of the Justices of Assize, or the Justices of the Peace at their several Quarter-Sessions, in the summe of three hundred pounds, according to the said late Act, not to print or suffer to be printed in his House or Press any Book or Books whatsoever, but such as shall from time to time be Licensed. And it was farther Ordered by his MAJESTY, That the said Master and Wardens of the Company of <hi>Stationers</hi> do cause the Act intituled, <hi>An Act for preventing the frequent Abuses in printing Seditious, Treasonable, and Ʋnlicenced Books and Pamphlets, and for Regulating of Printing and Printing-Presses,</hi> to be duly and effectually put in Execution in all the several parts thereof; and particularly that they indict, or cause to be indicted, all such persons as have erected any Printing-House or Printing-Press contrary to the said Act; and likewise make frequent and diligent Searches in every Printing-House, Book-sellers or Book-bin<g ref="char:EOLhyphen"/>ders Shop or House, and all other suspected places, for unlicensed Books and Pamphlets, and thereof to give an Account in writing under the Hands of the Master and Wardens, or one of them, for the time being, to his Grace the Lord Arch-bishop of <hi>Canterbury,</hi> the Lord Bishop of <hi>London,</hi> his MAJESTY's principal Secretaries of State, or one of them.</p>
+            <closer>
+               <signed>John Nicholas.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by <hi>James Flesher,</hi> Printer to the Honourable City of <hi>LONDON.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
